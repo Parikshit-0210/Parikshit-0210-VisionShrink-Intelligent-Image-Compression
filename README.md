@@ -1,7 +1,7 @@
 # VisionShrink: Intelligent Image Compression
-# Image Compression Using SVD, PCA, and NMF
 
 ## Overview
+### Image Compression Using SVD, PCA, and NMF
 
 This project implements image compression techniques using three different methods:
 
