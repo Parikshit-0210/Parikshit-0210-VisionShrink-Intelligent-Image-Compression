@@ -1,0 +1,2 @@
+# Parikshit-0210-VisionShrink-Intelligent-Image-Compression
+Image compression using three dimensionality reduction techniques: Singular Value Decomposition (SVD),PCA, and Non-negative Matrix Factorization (NMF). These methods efficiently reduce storage while preserving visual quality. It also includes features for displaying image details, resizing, and cropping, making it a versatile image processing tool.
